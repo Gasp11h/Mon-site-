@@ -1,0 +1,38 @@
+body{
+	color:yellow;
+	background-color:#5D33FF;
+	font-family:cursive;
+	font-size:17px
+	line-height:20px;
+	text-align:center;
+	margin:0px
+}
+
+h1{
+	font-variant:small-caps;
+	letter-spacing:1px
+	font-size:40px;
+}
+
+p{
+	padding:0px 100px;
+}
+
+img{
+	max-width:100%;
+}
+
+.photo{
+	border-radius:10px;
+	box-shadow:10px 10px 10px yellow;
+
+}
+	
+a{
+	color:red;
+	text-decoration:none;
+}
+
+a:hover{
+	color:yellow;
+}
